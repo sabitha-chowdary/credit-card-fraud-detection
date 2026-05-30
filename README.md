@@ -113,7 +113,7 @@ The goal is to identify fraud patterns and build predictive models to classify f
 ![ROC Curve](roc_curve.png)
 
 ### 📉 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrics.png)
 
 ---
 
