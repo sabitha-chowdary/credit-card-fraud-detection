@@ -104,6 +104,19 @@ The goal is to identify fraud patterns and build predictive models to classify f
 
 ---
 
+## 📊 Project Visualizations
+
+### 🔥 Correlation Heatmap
+![Heatmap](heatmap.png)
+
+### 📈 ROC Curve
+![ROC Curve](roc_curve.png)
+
+### 📉 Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+---
+
 ## 🙌 Conclusion
 
 This project helped in understanding real-world Machine Learning workflows including EDA, preprocessing, imbalanced learning, model building, and evaluation techniques used in fraud detection systems.
